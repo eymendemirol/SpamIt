@@ -39,7 +39,7 @@ Standalone Executable: No installation required - download and run!
 
 🚀 Getting Started
 
-Option 1: Download and Play (Easy)
+Download and Play (Easy)
 
 Download the ready-to-use executable file (Spammer.exe)
 
@@ -48,17 +48,6 @@ Ensure logo.png and logo.ico are in the same directory
 Double-click to launch the application
 
 No installation or dependencies required
-
-Option 2: Run from Source Code
-
-bash git clone https://github.com/yourusername/spammer.git cd spammer
-pip install -r requirements.txt python spammer.py 🔧 Building for
-Distribution The application includes PyInstaller compatibility for
-creating standalone executables:
-
-bash pyinstaller \--onefile \--windowed \--icon=logo.ico \--add-data
-\"logo.png;.\" \--add-data \"logo.ico;.\" spammer.py ⏰ Automation
-Settings
 
 Spam Text: Your custom message content
 
