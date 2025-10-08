@@ -51,7 +51,7 @@ No installation or dependencies required
 
 Option 2: Run from Source Code
 
-bash git clone https://github.com/yourusername/spammer.git cd spammer
+bash git clone https://github.com/eymendemirol/SpamIt.git cd spammer
 pip install -r requirements.txt python spammer.py 🔧 Building for
 Distribution The application includes PyInstaller compatibility for
 creating standalone executables:
